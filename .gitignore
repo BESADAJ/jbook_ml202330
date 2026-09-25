@@ -1,0 +1,5 @@
+﻿docs/_build/
+
+# Datos y PDFs pesados (no se suben a GitHub)
+docs/*.csv
+docs/*.pdf
